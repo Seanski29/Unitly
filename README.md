@@ -1,1 +1,1 @@
-# Unitly - Multi purpose landlord tenant Real Estate System
+# Unitly - Multi Purpose Landlord Tenant Real Estate System
